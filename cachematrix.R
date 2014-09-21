@@ -21,6 +21,8 @@ makeCacheMatrix <- function(x = matrix()) {
        )
 }
 
+
+
 #Calculate the inverse of matrix set above
 #If it has already been done before - we get the message "getting cached data"
 #and gets the inverse from the cash (avoit the calculations)
